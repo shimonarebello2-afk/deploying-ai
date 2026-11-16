@@ -36,7 +36,7 @@ If you use your own dataset:
 * It must make use of one of the following tools:
 
   * [Function Calling](https://platform.openai.com/docs/guides/function-calling) (API calling is acceptable, but not mandatory)
-  * [Web Search](https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses): You may perform simple web searches; if you use **agentic searches**, justify your decision. Avoid using “Deep Research.”
+  * [eb Search](https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses): You may perform simple web searches; if you use **agentic searches**, justify your decision. Avoid using “Deep Research.”
   * [MCP Server Connection](https://platform.openai.com/docs/guides/tools-connectors-mcp): You can explore available servers on [glama.ai](https://glama.ai/mcp/servers).
 
 ## User Interface
